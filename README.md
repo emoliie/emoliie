@@ -34,5 +34,5 @@
 ---
 
 ## 📫 Contact Me  
-- 💼 [LinkedIn](www.linkedin.com/in/xu-emilie)  
-- 📧 [emilie.xu@edu.devinci.fr](mailto:emilie.xu@devinci.fr)  
+- 💼 [LinkedIn](www.linkedin.com/in/xu-emilie/)  
+- 📧 [emilie.xu@edu.devinci.fr](mailto:emilie.xu@edu.devinci.fr)  
